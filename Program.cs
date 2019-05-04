@@ -55,6 +55,10 @@ namespace SDScode_challenge
             {
                 item.Quality +=(item.SellIn <= 0)? quality.QualityChange *2 : quality.QualityChange;
             }
+            if(item.Quality < 0 )
+            {
+                item.Quality = 0;
+            }
         }
         /// <summary>
         /// This is called to update the "Backstage Pass"

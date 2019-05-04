@@ -1,0 +1,11 @@
+C:\Users\kenne\source\repos\SDScode_challenge\bin\Debug\netcoreapp2.2\SDScode_challenge.deps.json
+C:\Users\kenne\source\repos\SDScode_challenge\bin\Debug\netcoreapp2.2\SDScode_challenge.runtimeconfig.json
+C:\Users\kenne\source\repos\SDScode_challenge\bin\Debug\netcoreapp2.2\SDScode_challenge.runtimeconfig.dev.json
+C:\Users\kenne\source\repos\SDScode_challenge\bin\Debug\netcoreapp2.2\SDScode_challenge.dll
+C:\Users\kenne\source\repos\SDScode_challenge\bin\Debug\netcoreapp2.2\SDScode_challenge.pdb
+C:\Users\kenne\source\repos\SDScode_challenge\obj\Debug\netcoreapp2.2\SDScode_challenge.csprojAssemblyReference.cache
+C:\Users\kenne\source\repos\SDScode_challenge\obj\Debug\netcoreapp2.2\SDScode_challenge.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\SDScode_challenge\obj\Debug\netcoreapp2.2\SDScode_challenge.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\SDScode_challenge\obj\Debug\netcoreapp2.2\SDScode_challenge.AssemblyInfo.cs
+C:\Users\kenne\source\repos\SDScode_challenge\obj\Debug\netcoreapp2.2\SDScode_challenge.dll
+C:\Users\kenne\source\repos\SDScode_challenge\obj\Debug\netcoreapp2.2\SDScode_challenge.pdb
